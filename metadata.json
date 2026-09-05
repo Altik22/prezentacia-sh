@@ -1,0 +1,6 @@
+{
+  "name": "Компьютерлік Архитектура — Интерактивті Дәріс",
+  "description": "Aesthetic Kazakh-language educational slide deck presentation on computer hardware components with interactive 3D component renders and glassmorphism UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
